@@ -1,5 +1,4 @@
-#python没必要用全局变量，数据封装
-#private 私有变量
+#python没必要用全局变量，数据封zhuang
 class Student(object):#继承object，还可以继承其它的类
     def __init__(self,name,score):
         self.__name=name
