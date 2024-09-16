@@ -17,3 +17,6 @@ if __name__=='__main__':
     p.close()
     p.join()
     print('done')
+    
+    #嘿嘿
+    print('hell')
